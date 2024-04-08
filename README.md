@@ -24,5 +24,3 @@ Thank you in advance for your feedback!
 | Poncik Studio ⬇️ | Personal Account ⬇️ |
 |------------------|-------------------|
 | **Email:** [theponcikstudio@gmail.com](mailto:theponcikstudio@gmail.com) <br> **Instagram:** [www.instagram.com/poncik.studio](https://www.instagram.com/poncik.studio) | **Email:** [emreeyapicii@gmail.com](mailto:emreeyapicii@gmail.com) <br> **Instagram:** [www.instagram.com/yapiciiemree](https://www.instagram.com/yapiciiemree) |
-
-
