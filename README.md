@@ -8,9 +8,9 @@ Remember, your biggest rival is yourself!
   <img src="https://github.com/yapiciemre/SpaceJump/assets/55670141/362fc52b-bc42-488f-b65c-cb57f86982ce" alt="Resim 2" style="width: 49%;">
 </div>
 
-## 🕹️ Gameplay Video
+## 🎮 Gameplay Video
 
-https://github.com/yapiciemre/SpaceJump/assets/55670141/560ff2a6-0c5f-4411-b521-e4a9dc6c1a8e
+You can watch a 1-minute gameplay video of our game here: [Gameplay Video](YOUR_VIDEO_LINK_HERE).
 
 ## ➕ What are the Benefits of the Project?
 Space Jump not only provides players with a fun and engaging gaming experience but also enhances their reflexes, problem-solving abilities, and encourages quick decision-making skills. Additionally, it boosts players' motivation, helping them experience a sense of achievement and develop their competitive spirits. In this way, it contributes to the players' development both mentally and emotionally by creating a positive impact.
@@ -21,6 +21,6 @@ We are looking forward to your suggestions and feedback to help us improve our g
 
 Thank you in advance for your feedback!
 
-| Poncik Studio ⬇️ | Personal Account ⬇️ |
+| POFU Game Studio ⬇️ | Personal Account ⬇️ |
 |------------------|-------------------|
-| **Email:** [theponcikstudio@gmail.com](mailto:theponcikstudio@gmail.com) <br> **Instagram:** [www.instagram.com/poncik.studio](https://www.instagram.com/poncik.studio) | **Email:** [emreeyapicii@gmail.com](mailto:emreeyapicii@gmail.com) <br> **Instagram:** [www.instagram.com/yapiciiemree](https://www.instagram.com/yapiciiemree) |
+| **Email:** [pofugames@gmail.com](mailto:pofugames@gmail.com) <br> **Instagram:** [www.instagram.com/pofugames](https://www.instagram.com/pofugames) | **Email:** [emreeyapicii@gmail.com](mailto:emreeyapicii@gmail.com) <br> **Instagram:** [www.instagram.com/yapiciiemree](https://www.instagram.com/yapiciiemree) |
