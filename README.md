@@ -4,13 +4,13 @@ Astronaut embarks on a journey to explore the infinity of space, how high can th
 Remember, your biggest rival is yourself!
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/yapiciemre/SpaceJump/assets/55670141/b7d7d25f-33e9-4ad7-90bf-98a56d4a3676" alt="Resim 1" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/20910a3c-7ffa-4496-9085-861b5577d6fd" alt="Resim 1" style="width: 49%;">
   <img src="https://github.com/yapiciemre/SpaceJump/assets/55670141/362fc52b-bc42-488f-b65c-cb57f86982ce" alt="Resim 2" style="width: 49%;">
 </div>
 
 ## 🎮 Gameplay Video
 
-You can watch a 1-minute gameplay video of our game here: [Gameplay Video](YOUR_VIDEO_LINK_HERE).
+You can watch a 1-minute gameplay video of our game here: [Gameplay Video](https://www.youtube.com/shorts/S1-9we9qNnc).
 
 ## ➕ What are the Benefits of the Project?
 Space Jump not only provides players with a fun and engaging gaming experience but also enhances their reflexes, problem-solving abilities, and encourages quick decision-making skills. Additionally, it boosts players' motivation, helping them experience a sense of achievement and develop their competitive spirits. In this way, it contributes to the players' development both mentally and emotionally by creating a positive impact.
