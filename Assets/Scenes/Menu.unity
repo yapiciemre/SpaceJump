@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 291469295}
   - component: {fileID: 291469294}
   m_Layer: 5
-  m_Name: PoncikStudio
+  m_Name: PofuGames
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -180,7 +180,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "PONCIKSTUDIO \xA9 2024, VERSION 1.0"
+  m_text: "POFU Games \xA9 2024, VERSION 1.0"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 6208c6515c218a546b776408b7fc8ae5, type: 2}
   m_sharedMaterial: {fileID: -5169210868302391416, guid: 6208c6515c218a546b776408b7fc8ae5, type: 2}
